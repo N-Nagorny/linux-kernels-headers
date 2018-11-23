@@ -1,0 +1,1 @@
+#define UTS_RELEASE "3.10.0-693.11.1.el7.x86_64"
